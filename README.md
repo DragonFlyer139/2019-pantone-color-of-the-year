@@ -1,0 +1,1 @@
+# 2019-pantone-color-of-the-year
