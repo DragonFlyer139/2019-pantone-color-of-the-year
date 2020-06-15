@@ -7,4 +7,4 @@ One feature that I've added is the listing of #hex colors in each color chip and
 
 [2019 Color Palettes by PANTONE®](https://dragonflyer139.github.io/2019-pantone-color-of-the-year/)
 
-Enjoy!
+Enjoy! :)
